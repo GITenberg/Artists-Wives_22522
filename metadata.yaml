@@ -1,0 +1,39 @@
+_repo: Artists-Wives_22522
+_version: 0.1.0
+alternative_title: Femmes d'artistes. English
+contributor:
+  translator:
+    agent_name: Ensor, Laura
+    gutenberg_agent_id: '25378'
+    url: http://www.gutenberg.org/2009/agents/25378
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+tableOfContents: Prologue -- Madam Heurtebise -- The credo of love -- The Transteverina
+  -- A couple of singers -- A misunderstanding -- Assault with violence -- Bohemia
+  at home -- Fragment of a woman's letter -- A great man's widow -- The deceiver --
+  The Comtesse Irma -- The confidences of an academic coat.
+title: Artists' Wives
+url: http://www.gutenberg.org/ebooks/22522
